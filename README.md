@@ -12,3 +12,7 @@ sudo apt-get install a2dp-app-osmc
 5) Skin Installieren
 https://github.com/harryberlin/repository.harryberlin/tree/master/skin.confluence-bmw
 
+6) Overscan unter Optionen (Experten Einstellung) => Anzeige => Video Kalibrieren
+
+
+
